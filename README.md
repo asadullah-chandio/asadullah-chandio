@@ -69,11 +69,11 @@ asadullah = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=asadullah-chandio&theme=onedark&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Stats](https://github-readme-stats.vercel.app/api?username=asadullah-chandio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </div>
 
