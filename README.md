@@ -31,10 +31,20 @@ asadullah = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib,fastapi,flask,docker,git,github,linux,vscode&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,fastapi,flask,docker,git,github,linux,vscode&perline=6)](https://skillicons.dev)
 
 </div>
 
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![StatsModels](https://img.shields.io/badge/StatsModels-4051B5?style=for-the-badge&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
 ---
 
 ## 📊 GitHub Stats
