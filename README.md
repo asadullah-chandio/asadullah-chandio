@@ -73,7 +73,7 @@ asadullah = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=asadullah-chandio&theme=onestar&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=asadullah-chandio&theme=onedark&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
