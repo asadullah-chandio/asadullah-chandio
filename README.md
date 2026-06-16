@@ -31,7 +31,7 @@ asadullah = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,pandas,numpy,opencv,fastapi,flask,docker,git,github,linux,vscode&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,pandas,numpy,matplotlib,fastapi,flask,docker,git,github,linux,vscode&perline=5)](https://skillicons.dev)
 
 </div>
 
